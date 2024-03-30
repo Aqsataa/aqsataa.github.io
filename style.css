@@ -1,0 +1,92 @@
+.jumbotron {
+    background-color: #292929;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url(pexels-golden-jojo-2409038.jpg);
+    background-size: cover;
+    padding-top: 100px;
+}
+
+body {
+    min-height: 2000px;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.navbar-brand {
+    font-weight: 1000;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+.display-4 {
+    line-height: 40px;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.button {
+    padding: 40px;
+}
+
+.btn.btn-light {
+    border-radius: 20px;
+    width: 200px;
+    font-weight: 500;
+    height: 50px;
+    font-size: 15px;
+}
+
+.myportfolio {
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    color: white;
+}
+
+.portfolio {
+    color: white;
+}
+
+#skill{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.card-text {
+    color: black;
+}
+
+.card {
+    border-radius: 45px;
+    width: 250px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.col-md-4 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#project {
+    background-color: #292929;
+    color: white;
+}
+
+#contact {
+    background-color: #292929;
+    color: white;
+}
+
+#about {
+    padding-top: 5rem;
+}
